@@ -1,1 +1,3 @@
 # Jira
+https://maksstebelskiy.atlassian.net/browse/MAK-1?atlOrigin=eyJpIjoiMzhkN2ZjNDJkZTU4NGVmMmI1YWVhYzVjZjlhN2UzZDIiLCJwIjoiaiJ9
+https://maksstebelskiy.atlassian.net/browse/MAK-3?atlOrigin=eyJpIjoiOWUxOGY2MjJkMmNmNDFhYjlhM2I3ZWQxNDU1NzUwODEiLCJwIjoiaiJ9
